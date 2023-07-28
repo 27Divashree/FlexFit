@@ -1,5 +1,4 @@
-# React Fitness Application
+FlexFit
+![image](https://github.com/27Divashree/FlexFit/assets/93401095/4b57574e-aea3-469d-92f9-ab6af2e16092)
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
