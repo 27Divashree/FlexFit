@@ -32,8 +32,14 @@ npm install
 npm start
 ```
 
-## Project Structure
+## Technologies Used
+React 18
+Material-UI
+Node JS
+Rapid API
+YouTube API
 
+## Project Structure
 ```
 |-- src
     |-- components
