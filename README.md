@@ -8,8 +8,6 @@ FlexFit is a state-of-the-art fitness app built using React 18 that allows users
 
 - **Responsive User Interface:** FlexFit boasts a responsive and user-friendly interface, providing an optimal experience on different devices and screen sizes.
 
-- **Advanced React Best Practices:** The project utilizes advanced React best practices, including proper folder and file structure, hooks, and efficient rendering techniques.
-
 - **Material-UI Integration:** The app's user interface is built using Material-UI, resulting in a visually appealing and intuitive design.
 
 - **Rapid API Integration:** FlexFit efficiently fetches exercise data from diverse sources using Rapid API, ensuring quick data retrieval.
