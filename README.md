@@ -31,11 +31,11 @@ npm start
 ```
 
 ## Technologies Used
-React 18
-Material-UI
-Node JS
-Rapid API
-YouTube API
+- React 18
+- Material-UI
+- Node JS
+- Rapid API
+- YouTube API
 
 ## Project Structure
 ```
