@@ -34,7 +34,7 @@ npm start
 - React 18
 - Material-UI
 - Node JS
-- Rapid API
+- ExerciseDB API
 - YouTube API
 
 ## Project Structure
